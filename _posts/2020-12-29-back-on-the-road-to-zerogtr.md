@@ -8,7 +8,6 @@ tags:
   - Zero GTR
   - Rust
 ---
-### Can't Sleep
 I woke up at 2:30 am and couldn't get back to sleep thinking about my old anti-gravity racing game concept, Zero GTR. I had made some rough gesture drawings of racer concepts a couple days ago just for sketching practice. 
 
 ![Rough racer gesture sketches](/assets/images/posts/racers_2020-12-27.jpg)
